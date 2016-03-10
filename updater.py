@@ -4,9 +4,7 @@ import sys
 import urllib.request
 import re
 import datetime
-import pytz
 import os
-import time
 from package import Package
 from subprocess import call
 
